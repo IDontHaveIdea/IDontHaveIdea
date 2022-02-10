@@ -5,7 +5,7 @@
 Programming in general.
 
 - 🌱 I’m currently learning ...
-  How to make MODs for games using BepInEx 
+  - How to make MODs for games using BepInEx 
 
 <!---
 IDontHaveIdea/IDontHaveIdea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
