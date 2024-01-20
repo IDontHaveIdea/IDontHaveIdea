@@ -4,8 +4,7 @@
 
 Programming in general.
 
-- 🌱 I’m currently learning ...
-  - How to make MODs for games using BepInEx 
+- 🌱 Working with Python and PySide6
 
 <!---
 IDontHaveIdea/IDontHaveIdea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
